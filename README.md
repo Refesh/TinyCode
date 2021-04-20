@@ -18,6 +18,7 @@ Para la implementación he usado Processing 3.5.4.
 
 **Colores:** Opte por colores suaves azul y blanco para que hubiera mucho contraste con el fondo, se intercalan los aros de color azul y los de color blanco para crear un efecto visual más impactante, si se usa un solo color no se marcan tanto las distintos efectos.
 
+Link sketch: https://editor.p5js.org/Refesh/sketches/k2_hSu2Hx
 
 ## GIF
 ![Alt Text](tinyCode.gif)
